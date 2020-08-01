@@ -35,7 +35,7 @@ hr
 {
     border: dotted #c0cccc 6px;
     border-bottom: none;
-    width: 5%;
+    width: 3%;
 
 }
 
@@ -72,6 +72,16 @@ hr
     margin-top: 70px;
 }
 
+.profile-photo
+{
+    margin-bottom: 50px;
+}
+
+.skills h2
+{
+    margin-top: 80px;
+}
+
 
 .skill-row
 {
@@ -99,6 +109,11 @@ hr
 .middle-container
 {
     margin-top: 100px;
+}
+
+.middle-container p
+{
+    line-height: 2;
 }
 
 .contact-me
