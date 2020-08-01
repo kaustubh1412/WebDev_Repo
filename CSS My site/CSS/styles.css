@@ -1,0 +1,155 @@
+body
+{
+    background-color: white;
+    margin: 0;
+    text-align: center;
+    font-family: 'Zilla Slab', serif;
+}
+ h1
+ {
+    font-family: 'Zilla Slab', serif;
+    color: #66BFBF;
+ }
+
+
+ h2
+ {
+    font-family: 'Source Code Pro', monospace;
+    color: #66BFBF;
+    font-weight: normal;
+
+}
+
+h3
+{
+    color: #11999E;
+}
+
+span
+{
+    text-decoration: underline;
+}
+.top_container
+{
+    background-color: #EAF6F6;
+    margin: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 20px;
+    position: relative;
+    padding-top: 140px;
+    height: 80vh;
+    line-height: 2;
+}
+
+.top_container h1
+{
+    line-height: 2;
+    font-size: 50px;
+}
+
+
+.top_container h2
+{
+    line-height: 1.2;
+    font-size: 30px;
+}
+
+
+.mountain
+{
+    margin-top: 70px;
+}
+
+hr
+{
+    border-style: dotted;
+    border-radius: 5px;
+}
+
+.skill-row
+{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    
+}
+
+.code-img
+{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.camera-img
+{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.middle-container
+{
+    margin-top: 100px;
+}
+
+.contact-me
+{
+    line-height: 2;
+    margin-bottom: 50px;
+}
+
+
+.button
+{
+    background-color: cadetblue;
+    color: #ffffff;
+    padding: 10px 15px 10px 15px;
+    border-radius: 10px;
+    text-align: center;
+    text-decoration: none;
+    margin-top: 50px;
+}
+
+
+.bottom-container
+{
+    background-color: #66BFBF;
+    height: 200px   ;
+}
+
+
+
+
+.top_cloud
+{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom_cloud
+{
+    position: absolute;
+    left: 300px;
+}
+
+.linkedin, .twitter, .web
+{
+    color: #084f52;
+    padding: 50px;
+    position: relative;
+    top: 50px;
+    text-decoration: solid;
+}
+
+.bottom-container p
+{
+    color: white;
+    position: relative;
+    top: 100px;
+
+}
