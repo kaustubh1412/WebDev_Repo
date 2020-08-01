@@ -30,6 +30,13 @@ span
 {
     text-decoration: underline;
 }
+
+hr
+{
+    border: dotted #EAF6F6 6px;
+
+}
+
 .top_container
 {
     background-color: #EAF6F6;
@@ -63,11 +70,6 @@ span
     margin-top: 70px;
 }
 
-hr
-{
-    border-style: dotted;
-    border-radius: 5px;
-}
 
 .skill-row
 {
